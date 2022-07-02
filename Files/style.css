@@ -144,8 +144,8 @@ body {
 .container {
     display: flex;
     align-content: center;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .container h3 h4 {
@@ -156,29 +156,33 @@ body {
     background-color: rgba(191, 231, 229, 0.315);
     border: solid white 1px;
     border-radius: 10px;
-    margin-top: 50px;
-    margin-bottom: 40px;
+    margin-top: 40px;
+    margin-bottom: 30px;
     margin-left: 10px;
-    margin-right: 60px;
-    padding-top: 50px;
-    padding-bottom: 30px;
-    padding-left: 20px;
-    padding-right: 20px;
+    margin-right: 50px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
     box-shadow: grey 4px 2px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
 }
 
 .container-2 {
     background-color: rgba(191, 231, 229, 0.315);
     border: solid white 1px;
     border-radius: 10px;
-    margin-top: 50px;
-    margin-bottom: 40px;
+    margin-top: 40px;
+    margin-bottom: 30px;
     margin-left: 10px;
-    margin-right: 60px;
-    padding-top: 50px;
-    padding-bottom: 30px;
-    padding-left: 20px;
-    padding-right: 20px;
+    margin-right: 50px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
     box-shadow: grey 4px 2px;
 }
 
